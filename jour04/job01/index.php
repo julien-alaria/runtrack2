@@ -8,7 +8,7 @@ if (isset($_GET)){
     foreach($_GET as $key => $value){
         $i++;
     }
-    echo $i+1
+    echo "nombre d'arguments: ".$i
 
 ?>
 
