@@ -7,3 +7,4 @@ while (isset($str[$i])) {
     echo $str[$i];
     $i +=2;
 }
+
