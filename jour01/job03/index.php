@@ -25,6 +25,7 @@ $str = "Hello";
             text-align: center;
             padding: 8px;
         }
+        
         th{
             background-color: #f4f4f4;
         }
